@@ -1,0 +1,60 @@
+.Welcome_text {
+    font-weight: 1000;
+    background: linear-gradient(#8483db, #c644ea); /* Standard syntax for linear gradient */
+    -webkit-background-clip: text;
+    background-clip: text; /* Standard syntax for background clip */
+    -webkit-text-fill-color: transparent;
+    color: transparent; /* Standard syntax for text fill color */
+    
+  }
+  
+
+#welcome{
+    width: 800px;
+    height: 170px;
+    margin-left: -450px;
+    font-size: 50px;
+    margin-top: -600px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Prompt', sans-serif;
+}
+
+#welcome_sub{
+    width: 700px;
+    margin-left: -350px;
+    margin-top:-70px;
+}
+
+
+.Welcome_animated{
+    margin-left: -850px;
+
+}
+
+.slide_box{
+    height: 400px;
+    width: 650px;
+    margin-left: -70px;
+    margin-top: 80px;
+    background: #b1aeeb ;
+    border-radius: 30px;
+}
+
+.slide_box h1 {
+    text-align: center;
+    font-size: 50px;
+    background: linear-gradient(#e0e55a, #72ea57); /* Standard syntax for linear gradient */
+    -webkit-background-clip: text;
+    background-clip: text; /* Standard syntax for background clip */
+    -webkit-text-fill-color: transparent;
+    color: transparent; /* Standard syntax for text fill color */
+  }
+  
+.slide_box p{
+    text-align: center;
+    margin-top: 70px;
+}
+
+.container{
+    height: 700px;
+}

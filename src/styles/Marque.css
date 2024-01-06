@@ -1,0 +1,61 @@
+
+.marquee_text{
+    font-size: 50px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Prompt', sans-serif;
+    margin-top: -160px;
+    color: rgb(81, 79, 79); 
+    margin-left: -210px;
+}
+
+.company_name{
+    overflow: hidden;
+    display: flex;
+    margin-left: -800px;
+    width: 1400px;
+    margin-top: 100px;
+}
+
+/* .company_name:hover {
+    transform: scale(.9);
+    cursor: pointer;
+    
+  } */
+
+.paytm{
+    padding-left: 50px;
+}
+
+.ibm{
+    padding-left: 50px;
+}
+
+.Lottiefiles{
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+.amazon{
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+.netflix{
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+.microsoft{
+    padding-left: 50px;
+}
+
+.flipkart{
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+.google{
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
