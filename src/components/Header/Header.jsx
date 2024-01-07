@@ -2,7 +2,7 @@ import React from 'react'
 import '../../styles/Header.css'
 import logo from '../../assets/image/1st.jpg'
 import main_logo from '../../assets/image/logo.png'
-import mobile_menu from '../../assets/image/menu.png'
+
 
 const nav_links=[
     {
@@ -41,9 +41,6 @@ export const Header = () => {
 {/* ========================================================= */}
 
         <div className="container">
-
-        
-
             <div className="nav_wrapper">
 
 
@@ -71,7 +68,6 @@ export const Header = () => {
                 {/* navigation */}
                 <div className="nav_right">
                     <button className="register_btn">Register</button>
-                    
                 </div>
 {/* ========================================================= */}
             </div>
